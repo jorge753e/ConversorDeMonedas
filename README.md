@@ -47,7 +47,7 @@ Aquí puedes ver algunas imágenes del funcionamiento del programa:
 ![image](https://github.com/user-attachments/assets/d452c4ce-0c8b-4413-9553-000c81c31775)
 
 - Una vez digitada la opción apretar la tecla ENTER, y a continuación digitar la cantidad de dinero a cambiar
-![image](https://github.com/user-attachments/assets/b4a95049-32e3-46f2-8d3d-f74645b0e7ea)
+![image](https://github.com/user-attachments/assets/dc5148f5-2827-4844-a72a-5cf649f1180d)
 
 - El programa mostrara la conversion a traves de un mensaje
 ![image](https://github.com/user-attachments/assets/c4309108-ba63-4c2d-b03b-b07e30760dd3)
