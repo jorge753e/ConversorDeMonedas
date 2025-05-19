@@ -42,15 +42,20 @@ Este proyecto está orientado a usuarios generales interesados en realizar conve
 Aquí puedes ver algunas imágenes del funcionamiento del programa:
 - SE EJECTURA EL PROGRAMA Y ESTA ES LA INTERFAZ 
 ![image](https://github.com/user-attachments/assets/1bdf266f-0665-4bc7-9624-3d5e09e3828d)
+
 - DIGITAR LA OPCION QUE PREFIERA (Escribir en números)
 ![image](https://github.com/user-attachments/assets/d452c4ce-0c8b-4413-9553-000c81c31775)
+
 - Una vez digitada la opción apretar la tecla ENTER, y a continuación digitar la cantidad de dinero a cambiar
 ![image](https://github.com/user-attachments/assets/b4a95049-32e3-46f2-8d3d-f74645b0e7ea)
+
 - El programa mostrara la conversion a traves de un mensaje
 ![image](https://github.com/user-attachments/assets/c4309108-ba63-4c2d-b03b-b07e30760dd3)
+
 (Si desea volver a repetir los pasos para seguir haciendo mas conversiones)
 - Al salir del programa con la opción 9, se generara un archivo el cual tendra el historial de conversiones realizadas por el usuario.
 ![image](https://github.com/user-attachments/assets/38bdf787-45ba-42d7-b4a3-a0d3fd6c7003)
+
 ![image](https://github.com/user-attachments/assets/4911cb0d-e373-4b2b-96b5-47302249464d)
 
 
